@@ -1,7 +1,6 @@
 ## Maksim Dudar
 
 
-
 ## Contacts
 
 *Location: Brest, Belarus
