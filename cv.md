@@ -3,9 +3,9 @@
 
 ## Contacts
 
-*Location: Brest, Belarus
-*Email: maksimdudar1@gmail.com
-*GitHub: MaksimDudar
+* Location: Brest, Belarus
+* Email: maksimdudar1@gmail.com
+* GitHub: MaksimDudar
 
 
 ## About Me
@@ -19,11 +19,11 @@ So It was the beggining...
 
 ## Skills
 
-*HTML
-*CSS
-*Ruby
-*RoR
-*Git
+* HTML
+* CSS
+* Ruby
+* RoR
+* Git
 
 ## Code Example
 
@@ -43,8 +43,8 @@ end
 
 ## Education
 
-University: Belarusian State University of Transport
-Courses:
+* University: Belarusian State University of Transport
+* Courses:
 Ruby and RoR by Roman Pushkin
 
 ## English
